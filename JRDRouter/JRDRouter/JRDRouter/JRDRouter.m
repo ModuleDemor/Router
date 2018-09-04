@@ -7,6 +7,7 @@
 //
 
 #import "JRDRouter.h"
+#import <objc/runtime.h>
 
 @interface JRDRouter ()
 
